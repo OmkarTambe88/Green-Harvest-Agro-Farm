@@ -57,7 +57,7 @@ const AboutPage = () => {
             </h2>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="text-lg leading-relaxed mb-6">
-                GreenEarth Organics was born from a simple yet powerful vision: to revolutionize the way we nurture our plants and care for our environment. Founded by a team of passionate agriculturists and environmental enthusiasts, we set out to create premium organic soil enhancers that deliver exceptional results while preserving our planet.
+              Green Harvest Agro Farm Organics was born from a simple yet powerful vision: to revolutionize the way we nurture our plants and care for our environment. Founded by a team of passionate agriculturists and environmental enthusiasts, we set out to create premium organic soil enhancers that deliver exceptional results while preserving our planet.
               </p>
               <p className="text-lg leading-relaxed mb-6">
                 What started as a small operation has grown into a trusted name in organic gardening solutions. Today, we proudly serve thousands of farmers, gardeners, and plant enthusiasts across the country with our premium Cocopeat and Vermicompost products.
@@ -139,7 +139,7 @@ const AboutPage = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="font-display text-3xl md:text-4xl font-bold text-primary-foreground mb-4">
-              Why Choose GreenEarth?
+              Why Choose Green Harvest Agro Farm?
             </h2>
           </div>
 

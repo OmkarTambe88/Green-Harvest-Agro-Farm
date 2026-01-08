@@ -3,7 +3,9 @@ import PackageCard from "@/components/PackageCard";
 
 import package1kg from "@/assets/package-1kg.jpg";
 import package10kg from "@/assets/package-10kg.jpg";
-import packageLoose from "@/assets/package-loose.jpg";
+import packageLoose from "@/assets/bulk.jpg";
+import package1_kg from "@/assets/1kg vermicompost.jpg";
+import package_10kg from "@/assets/10 kg vermicompost.jpg";
 
 const cocopeatPackages = [
   {
@@ -31,13 +33,13 @@ const vermicompostPackages = [
     product: "Vermicompost",
     size: "1 kg Pack",
     description: "Ideal for potted plants and small gardens. Rich organic nutrition in a convenient size.",
-    image: package1kg,
+    image: package1_kg,
   },
   {
     product: "Vermicompost",
     size: "10 kg Pack",
     description: "Perfect for vegetable gardens and flower beds. Long-lasting nutrition for healthy plants.",
-    image: package10kg,
+    image: package_10kg,
   },
   {
     product: "Vermicompost",

@@ -18,7 +18,7 @@ const Navbar = () => {
             to="/" 
             className="flex items-center gap-2 hover:opacity-80 transition-opacity"
           >
-            <img src={logo} alt={COMPANY_INFO.name} className="h-16 md:h-20 w-auto" />
+            <img src={logo} alt={COMPANY_INFO.name} className="h-20 md:h-24 w-auto" />
           </Link>
 
           {/* Desktop Navigation */}

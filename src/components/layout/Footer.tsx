@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Brand */}
           <div className="space-y-4">
             <Link to="/" className="flex items-center gap-2">
-              <img src={logo} alt={COMPANY_INFO.name} className="h-16 md:h-20 w-auto bg-white rounded-lg p-1" />
+              <img src={logo} alt={COMPANY_INFO.name} className="h-24 md:h-28 w-auto bg-white rounded-lg p-1" />
             </Link>
             <p className="text-primary-foreground/80 leading-relaxed">
               {COMPANY_INFO.tagline}. Providing premium organic soil enhancers for sustainable agriculture.

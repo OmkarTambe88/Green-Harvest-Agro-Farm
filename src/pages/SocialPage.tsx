@@ -41,7 +41,7 @@ const SocialPage = () => {
             Connect With Us
           </h1>
           <p className="text-xl text-primary-foreground/90 max-w-2xl mx-auto">
-            Follow us on social media and stay connected with GreenEarth Organics
+            Follow us on social media and stay connected with Green Harvest Agro Farm Organics
           </p>
         </div>
       </section>

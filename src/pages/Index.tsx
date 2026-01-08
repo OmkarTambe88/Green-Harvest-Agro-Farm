@@ -168,7 +168,7 @@ const Index = () => {
               </Button>
             </a>
             <Button variant="outline" size="lg" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground" asChild>
-              <a href="/Green_Harvest_Agro_Farm.pdf" target="_blank" rel="noopener noreferrer" download="Green_Harvest_Agro_Farm.pdf">
+              <a href="/public/Green_Harvest_Agro_Farm.pdf" target="_blank" rel="noopener noreferrer" download="Green_Harvest_Agro_Farm.pdf">
                 <Download className="h-5 w-5" />
                 Download Brochure
               </a>

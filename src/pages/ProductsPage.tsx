@@ -84,7 +84,7 @@ const ProductsPage = () => {
                 Our premium Cocopeat is made from 100% natural coconut coir, carefully processed to create the perfect growing medium. This versatile substrate offers exceptional water retention while maintaining optimal aeration, making it ideal for a wide range of gardening applications.
               </p>
               <p className="text-muted-foreground leading-relaxed mb-8">
-                Whether you are starting seeds, growing in containers, or setting up a hydroponic system, our Cocopeat provides the perfect foundation for healthy plant growth. It is naturally pest-resistant, pH-balanced, and can be reused multiple times.
+                Whether you are starting seeds, growing in containers, or setting up a hydroponic system, our Cocopeat provides the perfect foundation for healthy plant growth. It is naturally pest-resistant, pH-balanced, E.C.Maintained and can be reused multiple times.
               </p>
 
               <a href={WHATSAPP_LINK} target="_blank" rel="noopener noreferrer">
