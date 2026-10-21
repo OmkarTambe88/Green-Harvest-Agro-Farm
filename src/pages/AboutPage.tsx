@@ -1,4 +1,7 @@
 import Layout from "@/components/layout/Layout";
+import AwardedSection from "@/components/about/AwardedSection";
+import TrainingSection from "@/components/about/TrainingSection";
+import CompleteCourseSection from "@/components/about/CompleteCourseSection";
 import { Target, Eye, Heart, Shield, Users, Award } from "lucide-react";
 
 import heroFarm from "@/assets/hero-farm.jpg";
@@ -69,6 +72,15 @@ const AboutPage = () => {
           </div>
         </div>
       </section>
+
+      {/* Awarded by Ministry of MSME */}
+      <AwardedSection />
+
+      {/* Training */}
+      <TrainingSection />
+
+      {/* Complete Course */}
+      <CompleteCourseSection />
 
       {/* Mission & Vision */}
       <section className="py-16 md:py-24 bg-muted">

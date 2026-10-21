@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import ProductCard from "@/components/ProductCard";
+import ImageSlider from "@/components/ImageSlider";
 import Layout from "@/components/layout/Layout";
 import { ArrowRight, Leaf, Droplets, Sprout, Recycle, Download } from "lucide-react";
 import { WHATSAPP_LINK } from "@/lib/constants";
@@ -148,6 +149,9 @@ const Index = () => {
           </div>
         </div>
       </section>
+
+      {/* Image Slider */}
+      <ImageSlider />
 
       {/* CTA Section */}
       <section className="py-16 md:py-24 bg-primary">
